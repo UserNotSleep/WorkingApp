@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "loan": 50000.0,
+        "months": 12,
+        "interest": 22.0,
+        "methode": ""
+    }
+]

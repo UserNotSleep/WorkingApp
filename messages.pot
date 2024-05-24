@@ -1,0 +1,126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-21 22:18+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main.py:231 main.py:264 main.py:274 main.py:321 app_interface.kv:171
+msgid "annuity"
+msgstr ""
+
+#: main.py:232 main.py:265 main.py:276
+msgid "differentiated"
+msgstr ""
+
+#: main.py:552
+msgid "Date"
+msgstr ""
+
+#: main.py:553
+msgid "Payment"
+msgstr ""
+
+#: main.py:554 app_interface.kv:159 app_interface.kv:300 app_interface.kv:356
+msgid "Interest"
+msgstr ""
+
+#: main.py:555 app_interface.kv:311
+msgid "Principal"
+msgstr ""
+
+#: main.py:556
+msgid "Debt"
+msgstr ""
+
+#: app_interface.kv:39 app_interface.kv:78
+msgid "Mortgage Calculator"
+msgstr ""
+
+#: app_interface.kv:93
+msgid "Input"
+msgstr ""
+
+#: app_interface.kv:107 app_interface.kv:379
+msgid "Start date"
+msgstr ""
+
+#: app_interface.kv:124
+msgid "Loan"
+msgstr ""
+
+#: app_interface.kv:141
+msgid "Months"
+msgstr ""
+
+#: app_interface.kv:170
+msgid "Payment type"
+msgstr ""
+
+#: app_interface.kv:184 app_interface.kv:342
+msgid "Monthly payment"
+msgstr ""
+
+#: app_interface.kv:196 app_interface.kv:365
+msgid "Total interest"
+msgstr ""
+
+#: app_interface.kv:208 app_interface.kv:425
+msgid "Total payments"
+msgstr ""
+
+#: app_interface.kv:220 app_interface.kv:411
+msgid "Effective"
+msgstr ""
+
+#: app_interface.kv:232
+msgid "Table"
+msgstr ""
+
+#: app_interface.kv:248
+msgid "Chart"
+msgstr ""
+
+#: app_interface.kv:270
+msgid "Chart payments"
+msgstr ""
+
+#: app_interface.kv:321
+msgid "Sum"
+msgstr ""
+
+#: app_interface.kv:333
+msgid "Property value"
+msgstr ""
+
+#: app_interface.kv:388
+msgid "Payments type"
+msgstr ""
+
+#: app_interface.kv:402
+msgid "End date"
+msgstr ""
+
+#: app_interface.kv:434
+msgid "Term length"
+msgstr ""
+
+#: app_interface.kv:457
+msgid "City"
+msgstr ""
+
+#: app_interface.kv:460
+msgid "Street"
+msgstr ""
